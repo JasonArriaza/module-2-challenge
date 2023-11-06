@@ -1,7 +1,10 @@
-body {
-    /* background-image: url(images/image-background.jpg); */
-    
+html { 
+    scroll-behavior: smooth;
 }
+/* /* body {
+    /* background-image: url(images/image-background.jpg);
+    
+}  */
 
 .nav {
     display: flex;
