@@ -8,9 +8,9 @@ html {
 
 .nav {
     display: flex;
-
 }
-section img {
+
+section > img {
     max-width: 400px;
-    height: 400px;
+    max-height: 400px;
 }
