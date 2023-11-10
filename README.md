@@ -18,4 +18,6 @@ SO THAT I can review samples of their work and assess whether they're a good can
 #WHEN I resize the page or view the site on various screens and devices
 #THEN I am presented with a responsive layout that adapts to my viewport
 
+#This is my initial portfolio page containing all of the requested criteria stated above. It has my image as well as having places for my personal information when it comes time to update said informaiton.
+
 ![127 0 0 1_5500_index html](https://github.com/JasonArriaza/module-2-challenge/assets/98302556/b26b43ba-6ec1-4fec-911d-118d5d9fb83d)
